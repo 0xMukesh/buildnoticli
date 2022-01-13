@@ -1,6 +1,6 @@
 {
   "name": "buildnoticli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI which sends notification after running a command",
   "main": "index.js",
   "bin": {
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kira272921/tailwindcsscli.git"
+    "url": "git+https://github.com/Kira272921/buildnoticli.git"
   },
   "bugs": {
-    "url": "https://github.com/Kira272921/tailwindcsscli/issues"
+    "url": "https://github.com/Kira272921/buildnoticli/issues"
   },
-  "homepage": "https://github.com/Kira272921/tailwindcsscli/issues#readme"
+  "homepage": "https://github.com/Kira272921/buildnoticli#readme"
 }
