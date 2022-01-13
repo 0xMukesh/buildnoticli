@@ -1,0 +1,38 @@
+{
+  "name": "buildnoticli",
+  "version": "1.0.1",
+  "description": "A CLI which sends notification after running a command",
+  "main": "index.js",
+  "bin": {
+    "buildnoticli": "./bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node ./bin/cli.js"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "javascript",
+    "buildnoticli",
+    "notification",
+    "command-line-interface"
+  ],
+  "author": "Kira272921",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0",
+    "node-notifier": "^10.0.0",
+    "path": "^0.12.7",
+    "shelljs": "^0.8.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kira272921/tailwindcsscli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kira272921/tailwindcsscli/issues"
+  },
+  "homepage": "https://github.com/Kira272921/tailwindcsscli/issues#readme"
+}
