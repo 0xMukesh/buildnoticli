@@ -1,6 +1,6 @@
 {
   "name": "buildnoticli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CLI which sends notification after running a command",
   "main": "index.js",
   "bin": {
