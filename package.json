@@ -8,7 +8,8 @@
   },
   "type": "module",
   "scripts": {
-    "start": "node ./bin/cli.js"
+    "start": "node ./bin/cli.js",
+    "test": "node ./test/test.js"
   },
   "keywords": [
     "cli",
